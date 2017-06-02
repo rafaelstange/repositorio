@@ -1,5 +1,7 @@
 [user]
 	name = rafaelstange
-	email = rafael.br07@gmail.com
+	email = rafael.stange@royalsoft.com.br
 [gui]
 	recentrepo = C:/Users/Treinamento/repositorio
+[credential]
+	helper = manager
