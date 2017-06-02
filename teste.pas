@@ -2,7 +2,7 @@ Unit uTeste;
 
 interface
 
-uses Windows, System, Controls;
+uses Windows, System, Controls, DB;
 
 implementation
 
